@@ -36,7 +36,6 @@ import yun.oj.model.model.vo.UserVO;
 
  */
 @RestController
-@RequestMapping("/user")
 @Slf4j
 public class UserController {
 
